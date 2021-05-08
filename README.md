@@ -1,0 +1,1 @@
+# Gerador_Sequencial_MegaSena
